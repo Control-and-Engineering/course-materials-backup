@@ -260,7 +260,7 @@ body
 
 a
 {
-	color: #0077ff;
+	color: #880088;
 	text-decoration: none
 }
 
@@ -6342,7 +6342,7 @@ p.explain .minibutton
 .sidebar
 {
 	color: #fff;
-	background: #262c31
+	background: #442244
 }
 
 .sidebar a
@@ -6649,13 +6649,13 @@ p.explain .minibutton
 .header
 {
 	color: #fff;
-	background: #263238
+	background: #880088
 }
 
 .header input
 {
 	border-radius: 50px;
-	border: 1px solid #2472a4;
+	border: 1px solid #666666;
 	font-size: 80%
 }
 
