@@ -23,8 +23,8 @@
 <hr>
 
 <div class="copyright text-center text-gray" role="contentinfo">
+    本项目由
     <a class="text-gray" href="{{ docs.owner_url }}" rel="noreferrer" target="_blank">
-        本项目由
         {{- author -}}
     </a>
     <span class="time">
@@ -33,13 +33,13 @@
         {%- if created_time == updated_time -%}
             创建于{{- created_time -}}，
         {%- else -%}
-            创建于{{- created_time }}，最近更新于{{ updated_time -}}，
+            创建于{{- created_time }}，最近更新于{{ updated_time -}}
         {%- endif -%}
     </span>
     {% unless site.url contains "rundocs.io" %}
         <br>
         <div class="generator">
-            代码部署于
+            代码部署在
             <a href="https://pages.github.com" rel="noreferrer" target="_blank" title="github-pages v{{ docs.versions.github-pages }}">GitHub Pages</a>
             ，使用
             <a href="https://rundocs.io" rel="noreferrer" target="_blank">RunDocs</a>
