@@ -14,7 +14,7 @@
 
 一门课程再学习过程中会留下许多的学习痕迹：一些电子书、网络公开的学习课程、学习心得、走过的弯路。学会之后知识保存在大脑里，这些学习痕迹对个人而言就没用了，最终躺在硬盘里随着电脑一起报废。
 
-这些学习痕迹，对于面对一个新知识体系不知如何下手的人来说，还是有价值的。因此我希望前人在学习路上跳过的坑，后来人都可以绕过。希望这些没有用的“痕迹”能产生一些新的价值。
+这些学习痕迹，对于面对一个新知识体系不知如何下手的人来说，还是有价值的。因此我希望前人在学习路上跳过的坑，后来人都可以绕过。希望这些“痕迹”能产生一些新的价值。
 
 ## 主要内容
 
@@ -95,6 +95,23 @@
 
 就可以实现文字链接效果。
 
+
+## 相关资源
+
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+- [南京邮电大学通信工程](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+- [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京大学课程资料民间整理](https://github.com/lib-pku/libpku)
+- [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
+- [北京航空航天大学](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
+- [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
+- [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+- [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [东北大学机器人课程攻略 共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 
 
 
