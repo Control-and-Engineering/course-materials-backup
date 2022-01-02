@@ -9,9 +9,9 @@
 
 ### 视频课
 
-- [华成英 - 模拟电子技术基础 | 模拟电路 | 模电](https://www.bilibili.com/video/BV19s411a7KL)
-
+- [华成英主讲 - 模拟电子技术基础](https://www.bilibili.com/video/BV19s411a7KL)
 >也是属于经典教材的经典视频了，上课的补充。
+
 
 ### PDF书籍
 
