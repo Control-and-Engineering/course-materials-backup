@@ -75,8 +75,11 @@
 
 每个课程文件夹内，都会有一个名为`README.md`的文本文档，这个文档里有关于课程的一切说明。具体内容可以参考[控制工程基础README文档](https://raw.githubusercontent.com/Control-and-Engineering/course-materials-backup/main/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80/README.md)。
 
-实验报告请按照完成年份来命名。如果压缩包内有照片，还请把照片体积压缩的小一点（[照片压缩工具下载](https://github.com/meowtec/Imagine)），能看清字即可。
+实验报告请按照完成年份来命名。
 
+如果是照片形式，还请把照片体积压缩能到看清字即可的小一点，每张照片200~500kB（[照片压缩工具下载](https://github.com/meowtec/Imagine)），然后放到一个压缩包内上传。
+
+如果是word文档，选中任意一张图片，在上方工具栏选择**压缩图片**，弹出对话框内取消选择**仅应用于此图片**，分辨率选择**Web(150ppi)**或者**打印(220ppi)**。处理好后直接上选doc文件或者导出pdf文件都可以。
 
 一门课程的文件夹大概是这个样子
 
@@ -85,7 +88,7 @@
   |--README.md
   |--2018-1.zip
   |--2018-2.zip
-  |--2019-1.zip
+  |--2019-1.doc
   |--xxx.pdf
   |
 ```
