@@ -15,7 +15,7 @@
 
 经典控制理论图解法占据了半壁江山，把握好各种各样的图，在学习分析方法的时候会轻松许多。
 
-## 实验
+## 实验报告
 
 - [2019-1](./2019-1.zip)
 
@@ -29,17 +29,15 @@
 
 ### PDF书籍
 
-- [Modern Control Systems (12th Edition)-Richard C.Dorf, Robert H.Bishop](https://sg1lib.org/book/976405/c48280)
-
-- [现代控制系统（第十二版）](https://sg1lib.org/book/16777647/2ce781)
-
+- [Modern Control Systems (12th Edition)-Richard C.Dorf, Robert H.Bishop](https://bookos-z1.org/book/976405/c48280)
+- [现代控制系统（第十二版）](https://bookos-z1.org/book/16777647/2ce781)
 >上课用书，英文原版和中文版。
 
-- [自动控制原理（第二版） - 卢京潮 主编](https://sg1lib.org/book/16896604/15fe89)
+- [自动控制原理（第二版） - 卢京潮 主编](https://bookos-z1.org/book/16896604/15fe89)
 >和卢老师的视频配套的用书。逻辑清晰、重点突出，适合自学。
 
-- [自动控制原理（第六版）-胡寿松](https://sg1lib.org/book/5581277/320e35)
->主流的参考教材，更像是一本全面的工具书，初学看这本还是挺痛苦的。
+- [自动控制原理（第六版）-胡寿松](https://bookos-z1.org/book/5581277/320e35)
+>主流的参考教材，更像是一本全面细致的工具书，初学看这本还是挺痛苦的。
 
 ### 其他资源
 

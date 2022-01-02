@@ -26,9 +26,9 @@
 
 离散系统使用了离散的数学工具，传承了连续系统的分析思路。非线性系统有相平面法和描述函数法，相平面法的精髓是图，描述函数则是用了一些近似手段用经典方法分析非线性系统。状态空间理论是最重要的，掌握了这部分内容，才算是摸到了控制的门槛了。
 
-## 实验
+## 实验报告
 
-没有实验报告。
+
 
 ## 学习资源
 
@@ -44,17 +44,15 @@
 
 ### PDF书籍
 
-- [Modern Control Systems (12th Edition)-Richard C.Dorf, Robert H.Bishop](https://sg1lib.org/book/976405/c48280)
+- [Modern Control Systems (12th Edition)-Richard C.Dorf, Robert H.Bishop](https://bookos-z1.org/book/976405/c48280)
+- [现代控制系统（第十二版）](https://bookos-z1.org/book/16777647/2ce781)
+>自动化专业的上课用书，英文原版和中文版。
 
-- [现代控制系统（第十二版）](https://sg1lib.org/book/16777647/2ce781)
+- [自动控制原理（第六版）-胡寿松](https://bookos-z1.org/book/5581277/320e35)
+>电气类同学选修课的上课用书。
 
->上课用书，英文原版和中文版。
-
-- [自动控制原理（第二版） - 卢京潮 主编](https://sg1lib.org/book/16896604/15fe89)
+- [自动控制原理（第二版） - 卢京潮 主编](https://bookos-z1.org/book/16896604/15fe89)
 >和卢老师的视频配套的用书。逻辑清晰、重点突出，适合自学。
-
-- [自动控制原理（第六版）-胡寿松](https://sg1lib.org/book/5581277/320e35)
->电气类同学选修课使用的教材。
 
 ### 其他资源
 
