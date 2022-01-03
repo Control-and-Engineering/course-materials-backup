@@ -35,7 +35,6 @@
 ### 视频课
 
 - [《自动控制原理》西北工业大学 卢京潮](https://www.bilibili.com/video/BV1ZJ411c757)
-
 >**必看经典**。可惜的是只有离散系统和非线性这两个章节，没有状态空间部分。
 
 - [DR_CAN-现代控制理论](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569601)
@@ -44,14 +43,40 @@
 
 ### PDF书籍
 
-- [Modern Control Systems (12th Edition)-Richard C.Dorf, Robert H.Bishop](https://bookos-z1.org/book/976405/c48280)
-- [现代控制系统（第十二版）](https://bookos-z1.org/book/16777647/2ce781)
->自动化专业的上课用书，英文原版和中文版。
 
-- [自动控制原理（第六版）-胡寿松](https://bookos-z1.org/book/5581277/320e35)
+<center>
+    <a href="https://bookos-z1.org/book/976405/c48280"><img src="../images/现代控制系统英文版.jpg" width = 120></a>
+</center>
+
+- Modern Control Systems - Richard C.Dorf, Robert H.Bishop.12th Edition. 9780136024583
+>上课用书，英文原版
+
+<center>
+    <a href="https://bookos-z1.org/book/829903/00ddba"><img src="../images/现代控制系统习题解析英文版.jpg" width = 120></a>
+</center>
+
+- Instructor's Solutions Manual for Modern Control Systems, 12th Edition. 7801360249
+>上课用书的配套习题解析
+
+<center>
+    <a href="https://bookos-z1.org/book/16777647/2ce781"><img src="../images/现代控制系统中文版.jpg" width = 120></a>
+</center>
+
+- 现代控制系统（第十二版）. 9787121123351
+>上课用书的中文版。
+
+<center>
+    <a href="https://bookos-z1.org/book/5581277/320e35"><img src="../images/自动控制原理-胡寿松.jpg" width = 120></a>
+</center>
+
+- 自动控制原理/胡寿松主编. 第6版. ISBN:978-7-03-037056-3
 >电气类同学选修课的上课用书。
 
-- [自动控制原理（第二版） - 卢京潮 主编](https://bookos-z1.org/book/16896604/15fe89)
+<center>
+    <a href="https://bookos-z1.org/book/16896604/15fe89"><img src="../images/自动控制原理-卢京潮.jpg" width = 120></a>
+</center>
+
+- 自动控制原理/卢京潮主编. 第2版. ISBN:978-7-302-31075-4
 >和卢老师的视频配套的用书。逻辑清晰、重点突出，适合自学。
 
 ### 其他资源
