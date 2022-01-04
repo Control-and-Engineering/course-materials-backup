@@ -46,7 +46,7 @@
 
 如果你熟悉git和GitHub，那么贡献方式和其他开源项目一样，只需要注意[文件组织方式](#文件组织方式)即可。
 
-如果你从未听说过上面的东西，没关系，这里有一本[GitHub入门与实践](https://bookos-z1.org/book/2855761/e1777a)，学会这个版本控制工具对将来的软件项目开发一定会有用处。当然，如果你目前没有时间看完书里的这么多内容，这里也有简化的操作步骤及说明：
+如果你从未听说过上面的东西，没关系，这里有一本[GitHub入门与实践](https://bookos-z1.org/book/2855761/e1777a)，学会这个版本控制工具对将来的软件项目开发一定会有用处。当然，如果你目前没有时间看完书里的这么多内容，按照[文件组织方式](#文件组织方式)整理好资料后，可以参考下面的简化版操作步骤及说明：
 
 - 1.在[GitHub](https://github.com)注册一个自己的账号
 >**GitHub**是一个软件项目平台，这个项目所有的文件、你看到的这个网页的代码全部都托管在这个平台上。如果你将来可能会从事软件开发工作，那么不妨现在先注册一个账号。
@@ -71,36 +71,44 @@
     <img src="./images/提交更改.jpg" width=350>
 </center>
 
->如果提示你的仓库落后于我们的的仓库，可以点击**Fetch upstream**，选择**Fetch and merge**。至此，你就成功贡献了你的资源，并且完成了一次github的代码提交实践。
+>如果提示你的仓库落后于我们的的仓库，可以点击**Fetch upstream**，选择**Fetch and merge**。
 
-最后，如果上面的操作也太麻烦了，可以直接用邮件附件发送到[m@njust.edu.cn]()，我们帮来助你上传。感谢乐于分享的你！
+至此，你就成功贡献了你的资源，并且完成了一次github的代码提交实践。
+
+**如果你觉的上面的操作也太麻烦了，那么直接上传问题也不是很大，当然也可以直接用邮件附件发送到[m@njust.edu.cn]()，我们帮来助你上传。**
+
+感谢乐于分享的你！
 
 ### 文件组织方式
-
-每个课程文件夹内，都会有一个名为`README.md`的文本文档，这个文档里有关于课程的一切说明。具体内容可以参考[控制工程基础README文档](https://raw.githubusercontent.com/Control-and-Engineering/course-materials-backup/main/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80/README.md)。
-
-实验报告请按照完成年份来命名。
-
-如果是照片形式，请把照片体积压缩能到看清字即可（对于目前主流手机像素，压缩到200~500kB，[照片压缩工具下载](https://github.com/meowtec/Imagine)），然后放到一个压缩包内上传。
-
-如果是word文档，选中任意一张图片，在上方工具栏选择**压缩图片**，弹出对话框内取消选择**仅应用于此图片**，分辨率选择**Web(150ppi)**或者**打印(220ppi)**。处理好后直接上选doc文件或者导出pdf文件都可以。
 
 一门课程的文件夹大概是这个样子
 
 ```
 ----课程名
   |--README.md
-  |--2018-1.zip
-  |--2018-2.zip
-  |--2019-1.doc
-  |--xxx.pdf
-  |
+  |--实验报告-2018-1.zip
+  |--实验报告-2018-2.zip
+  |--实验报告-2019-1.doc
+  |--课程总结-2019-1.pdf
+  |--课程总结-2020-1.pdf
+  |--复习重点-2017-1.doc
 ```
+
+每个课程文件夹内，都会有一个名为`README.md`的文本文档，这个文档里有关于课程的一切说明。具体内容可以参考[控制工程基础README文档](https://raw.githubusercontent.com/Control-and-Engineering/course-materials-backup/main/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80/README.md)。
+
+资料命名的格式**资料类型-完成年份-顺序编号**。
+
+其他小问题（可选项）：
+
+如果是照片形式，请把照片体积压缩能到看清字即可（对于目前主流手机像素，压缩到200~500kB，[照片压缩工具下载](https://github.com/meowtec/Imagine)），然后放到一个压缩包内上传。
+
+如果是word文档，也可以适当压缩文档内插图。方法：选中任意一张图片，在上方工具栏选择**压缩图片**，弹出对话框内取消选择**仅应用于此图片**，分辨率选择**Web(150ppi)**或者**打印(220ppi)**。处理好后直接上传doc文件或者导出pdf文件后上传都可以。
+
 
 在`README.md`里使用如下语句就可以实现文字链接效果。
 ```
-- [2018-1](./2018-1.zip)
-- [2018-2](./2018-2.zip)
+- [实验报告-2018-1](./实验报告-2018-1.zip)
+- [实验报告-2018-2](./实验报告-2018-2.zip)
 ```
 
 文字内容的修改，在网页里打开`README.md`文档，点击**Edit file**即可在线操作。提交方式参考上面文件提交。
@@ -113,7 +121,10 @@
 - [南京邮电大学通信工程](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [ZJU-SE的一些课程笔记，历年卷，课程经历分享](https://github.com/Zhang-Each/CourseNoteOfZJUSE)
+
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [北京大学课程资料民间整理](https://github.com/lib-pku/libpku)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
