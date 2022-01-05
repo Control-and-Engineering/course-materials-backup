@@ -18,7 +18,7 @@
 ### PDF书籍
 
 <center>
-    <a href="https://bookos-z1.org/book/16651964/df8cb6"><img src="../images/运动控制系统.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/16651964/df8cb6"><img src="../images/运动控制系统.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - 电力拖动自动控制系统——运动控制系统 第5版

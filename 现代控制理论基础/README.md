@@ -45,35 +45,35 @@
 
 
 <center>
-    <a href="https://bookos-z1.org/book/976405/c48280"><img src="../images/现代控制系统英文版.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/976405/c48280"><img src="../images/现代控制系统英文版.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - Modern Control Systems - Richard C.Dorf, Robert H.Bishop.12th Edition. 9780136024583
 >上课用书，英文原版
 
 <center>
-    <a href="https://bookos-z1.org/book/829903/00ddba"><img src="../images/现代控制系统习题解析英文版.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/829903/00ddba"><img src="../images/现代控制系统习题解析英文版.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - Instructor's Solutions Manual for Modern Control Systems, 12th Edition. 7801360249
 >上课用书的配套习题解析
 
 <center>
-    <a href="https://bookos-z1.org/book/16777647/2ce781"><img src="../images/现代控制系统中文版.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/16777647/2ce781"><img src="../images/现代控制系统中文版.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - 现代控制系统（第十二版）. 9787121123351
 >上课用书的中文版。
 
 <center>
-    <a href="https://bookos-z1.org/book/5581277/320e35"><img src="../images/自动控制原理-胡寿松.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/5581277/320e35"><img src="../images/自动控制原理-胡寿松.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - 自动控制原理/胡寿松主编. 第6版. ISBN:978-7-03-037056-3
 >电气类同学选修课的上课用书。
 
 <center>
-    <a href="https://bookos-z1.org/book/16896604/15fe89"><img src="../images/自动控制原理-卢京潮.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/16896604/15fe89"><img src="../images/自动控制原理-卢京潮.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - 自动控制原理/卢京潮主编. 第2版. ISBN:978-7-302-31075-4

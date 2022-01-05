@@ -16,7 +16,7 @@
 ### PDF书籍
 
 <center>
-    <a href="https://bookos-z1.org/book/16599034/bb8c3f"><img src="../images/模拟电子技术基础-华成英.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/16599034/bb8c3f"><img src="../images/模拟电子技术基础-华成英.jpg" width = 120 style="border:1px solid black" ></a>
 </center>
 
 - 模拟电子技术基础（第5版）- 童诗白，华成英原主编. 第5版. 978-7-04-042505-5
