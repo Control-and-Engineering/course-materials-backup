@@ -1,7 +1,7 @@
 # 课程资源备份
 
 <center>
-    <img src="./images/1.png" width = 400px>
+    <img src="./images/1.png" width = 400px >
 </center>
 
 如果你是在GitHub看到这些内容，欢迎前往[独立网页](https://课程.孝陵卫皇家理工大学.cn/)获得更好的访问体验。
@@ -58,7 +58,7 @@
 >这里以上传“模拟电路实验报告”为例。打开你账号里*course-materials-backup*项目中的`模拟电子线路`文件夹，点击**Upload files**，在打开的页面里上传你的文件，写上必要的说明文字，如`这是一份实验报告`。然后点击**Commit changes**，先提交到你的仓库。
 
 <center>
-    <img src="./images/项目仓库.jpg" width=350>
+    <img src="./images/项目仓库.jpg" width=350 style="border:1px solid black" >
 </center>
 
 - *3.2 上传文件到新课程*
@@ -68,7 +68,7 @@
 >此时你复制下来的仓库里的内容领先于我们的仓库。在你的仓库页面点击**Contribute**，然后**Open pull request**，在新页面里**Create pull request**，就可以向我们同步你的内容。
 
 <center>
-    <img src="./images/提交更改.jpg" width=350>
+    <img src="./images/提交更改.jpg" width=350 style="border:1px solid black">
 </center>
 
 >如果提示你的仓库落后于我们的的仓库，可以点击**Fetch upstream**，选择**Fetch and merge**。
