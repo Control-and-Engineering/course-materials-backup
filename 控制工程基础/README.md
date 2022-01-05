@@ -50,7 +50,7 @@
 >上课用书的中文版。
 
 <center>
-    <a href="https://bookos-z1.org/book/16896604/15fe89"><img src="../images/自动控制原理-卢京潮.jpg" width = 120></a>
+    <a href="https://bookos-z1.org/book/16896604/15fe89"><img src="../images/自动控制原理-卢京潮.jpg" width = 120  border=1></a>
 </center>
 
 - 自动控制原理/卢京潮主编. 第2版. ISBN:978-7-302-31075-4
