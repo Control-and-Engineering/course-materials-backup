@@ -10,6 +10,9 @@ siteurl: "https://课程.孝陵卫皇家理工大学.cn"
 #   dist: false
 #   shortcodes: true
 
+gittalk:
+  enable:       true
+
 readme_index:
   with_frontmatter: true
 
