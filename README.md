@@ -1,16 +1,23 @@
-# 课程资源备份
+
+<br><br>
 
 <center>
-    <img src="./images/1.png" width = 400px >
+    <img src="./assets/images/njust.png" width=240 />
 </center>
 
-如果你是在GitHub看到这些内容，欢迎前往[独立网页](https://课程.孝陵卫皇家理工大学.cn/)获得更好的访问体验。
+---
 
-这是一份开源文档，关于课程资料、实验报告、好的学习资源...
+<br>
 
-目前主要是控制类专业（自动化），电气工程（电力电子与电机方向）。
+![GitHub repo size](https://img.shields.io/github/repo-size/Control-and-Engineering/course-materials-backup?label=%E5%85%A8%E9%83%A8%E8%B5%84%E6%96%99%E5%A4%A7%E5%B0%8F)
+![GitHub contributors](https://img.shields.io/github/contributors/Control-and-Engineering/course-materials-backup?label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0)
+![GitHub last commit](https://img.shields.io/github/last-commit/Control-and-Engineering/course-materials-backup?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0)
+
+**如果你是在GitHub看到这些内容，欢迎前往[独立网页](https://课程.孝陵卫皇家理工大学.cn/)获得更好的访问体验。**
 
 ## 前言
+
+这是一份和学习有关的开源文档。
 
 一门课程再学习过程中会留下许多的学习痕迹：一些电子书、网络公开的学习课程、学习心得、走过的弯路。学会之后知识保存在大脑里，这些学习痕迹对个人而言就没用了，最终躺在硬盘里随着电脑一起报废。
 
@@ -26,13 +33,11 @@
 
 包括但不限于上面列出的，一切对于知识的学习有帮助的内容。
 
-## 如何贡献
+## 欢迎贡献
 
 如果你也愿意分享自己的学习心得、学习成果、好的学习资料，欢迎上传。
 
-```warning
 这些内容不建议上传
-
 - 盗版、或需要付费的PDF电子书
 - 破解软件及其安装包
 - 课程ppt老师发布的资源等
@@ -40,7 +45,7 @@
 *关于PPT：首先这属于老师的劳动成果，并且可能每年都会变化，也比较容易获得。其次PPT文件体积都挺大的，在github上传下载速度比较影响体验。*
 
 如果确实需要，可以将跳转链接整理到README文档里。仓库里的文件侵犯了您的权益，请[向我们发送邮件](mailto:m@njust.edu.cn) ，我们会尽快清除。
-```
+
 
 ### 上传方式
 
@@ -58,7 +63,7 @@
 >这里以上传“模拟电路实验报告”为例。打开你账号里*course-materials-backup*项目中的`模拟电子线路`文件夹，点击**Upload files**，在打开的页面里上传你的文件，写上必要的说明文字，如`这是一份实验报告`。然后点击**Commit changes**，先提交到你的仓库。
 
 <center>
-    <img src="./images/项目仓库.jpg" width=350 style="border:1px solid black" >
+    <img src="./assets/images/项目仓库.jpg" width=350 style="border:1px solid black" />
 </center>
 
 - *3.2 上传文件到新课程*
@@ -68,7 +73,7 @@
 >此时你复制下来的仓库里的内容领先于我们的仓库。在你的仓库页面点击**Contribute**，然后**Open pull request**，在新页面里**Create pull request**，就可以向我们同步你的内容。
 
 <center>
-    <img src="./images/提交更改.jpg" width=350 style="border:1px solid black">
+    <img src="./assets/images/提交更改.jpg" width=350 style="border:1px solid black" />
 </center>
 
 >如果提示你的仓库落后于我们的的仓库，可以点击**Fetch upstream**，选择**Fetch and merge**。
@@ -121,10 +126,8 @@
 - [南京邮电大学通信工程](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
-
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [ZJU-SE的一些课程笔记，历年卷，课程经历分享](https://github.com/Zhang-Each/CourseNoteOfZJUSE)
-
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [北京大学课程资料民间整理](https://github.com/lib-pku/libpku)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
