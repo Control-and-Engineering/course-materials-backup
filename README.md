@@ -1,17 +1,14 @@
 
-<br><br>
-
-<center>
+<figure>
     <img src="./assets/images/njust.png" width=240 />
-</center>
+</figure>
 
 ---
 
-<br>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Control-and-Engineering/course-materials-backup?label=%E5%85%A8%E9%83%A8%E8%B5%84%E6%96%99%E5%A4%A7%E5%B0%8F)
-![GitHub contributors](https://img.shields.io/github/contributors/Control-and-Engineering/course-materials-backup?label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0)
-![GitHub last commit](https://img.shields.io/github/last-commit/Control-and-Engineering/course-materials-backup?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0)
+![GitHub last commit](https://badgen.net/github/last-commit/Control-and-Engineering/course-materials-backup/main)
+![GitHub stars](https://badgen.net/github/stars/Control-and-Engineering/course-materials-backup)
+![GitHub repo size](https://badgen.net/github/commits/Control-and-Engineering/course-materials-backup/main)
+![GitHub contributors](https://badgen.net/github/contributors/Control-and-Engineering/course-materials-backup)
 
 **如果你是在GitHub看到这些内容，欢迎前往[独立网页](https://课程.孝陵卫皇家理工大学.cn/)获得更好的访问体验。**
 
@@ -62,9 +59,9 @@
 - 3.1 上传文件到已有的课程文件夹
 >这里以上传“模拟电路实验报告”为例。打开你账号里*course-materials-backup*项目中的`模拟电子线路`文件夹，点击**Upload files**，在打开的页面里上传你的文件，写上必要的说明文字，如`这是一份实验报告`。然后点击**Commit changes**，先提交到你的仓库。
 
-<center>
+<figure>
     <img src="./assets/images/项目仓库.jpg" width=350 style="border:1px solid black" />
-</center>
+</figure>
 
 - *3.2 上传文件到新课程*
 >随便打开个课程文件夹，选择Upload files。**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，回车确认**，其他步骤同上。
@@ -72,9 +69,9 @@
 - 4.将你的更改提交给我们
 >此时你复制下来的仓库里的内容领先于我们的仓库。在你的仓库页面点击**Contribute**，然后**Open pull request**，在新页面里**Create pull request**，就可以向我们同步你的内容。
 
-<center>
+<figure>
     <img src="./assets/images/提交更改.jpg" width=350 style="border:1px solid black" />
-</center>
+</figure>
 
 >如果提示你的仓库落后于我们的的仓库，可以点击**Fetch upstream**，选择**Fetch and merge**。
 
